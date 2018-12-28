@@ -1,0 +1,8 @@
+*.so
+*.o
+*.a
+*.exe
+*.dll
+*.stl
+*.dia~
+*.json
